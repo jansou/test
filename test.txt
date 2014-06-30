@@ -7,4 +7,5 @@ ftyfty
 
 oihcoidhsoid
 
-jajajajaja
+commit -a -m "comment"
+git push origin master
